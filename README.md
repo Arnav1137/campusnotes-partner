@@ -1,3 +1,8 @@
 # campusnotes-partner
+
+A shared repository of unit-wise campus notes.
+
 ## Usage
-Clone the repository, open the notes folder, and read the notes unit by unit. Contributions are welcome through pull requests.
+Prerequisite: Git must be installed on your computer.
+Clone the repository and read the notes unit by unit.
+Contributions are welcome through pull requests.
